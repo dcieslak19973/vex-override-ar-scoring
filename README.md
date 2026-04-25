@@ -58,6 +58,7 @@ For Beam Pro / Android AR work after the project opens:
 ## Git Workflow
 
 Use `main` as the shared integration branch.
+Do not push directly to `main`; all changes should go through a feature branch and pull request.
 
 1. Start from the latest `main`.
 2. Create a feature branch for each task.
