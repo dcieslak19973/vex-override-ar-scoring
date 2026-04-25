@@ -18,7 +18,7 @@ It does not yet contain gameplay code.
 
 This project is now initialized and locked to the Unity version below:
 
-- Unity `6000.3.14f1`
+- Unity `6000.4.4f1`
 - Install through Unity Hub
 - Include Android Build Support
 - Include Android SDK & NDK Tools
@@ -27,7 +27,7 @@ This project is now initialized and locked to the Unity version below:
 To open or initialize this project:
 
 1. Install Unity Hub from the Unity download page.
-2. In Unity Hub, install editor `6000.3.14f1` with the Android modules listed above.
+2. In Unity Hub, install editor `6000.4.4f1` with the Android modules listed above.
 3. In Unity Hub, add the folder `C:\git\vex-override-ar-scoring`.
 4. Open the project from Unity Hub.
 5. If Unity prompts to upgrade the project, do that work in a feature branch and commit the generated metadata changes there.
